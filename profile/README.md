@@ -1,12 +1,10 @@
-## Hi there 👋
+## Eduoral
 
-<!--
+Eduoral is a modern educational app that provides students with easy access to past papers, entry tests, job papers, and scholarships. It helps university, school, and test preparation students to find, download, and save important academic resources in a clean and user-friendly interface.
 
-**Here are some ideas to get you started:**
+With personalized dashboards, colorful card layouts, and intuitive navigation, Eduoral makes studying and preparing for exams efficient and enjoyable.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Contact & Links
+Email: eduoral@apricodex.com
+Website: eduoral.apricodex.com
+Google Play Store App: [<PLay Store>](https://play.google.com/store/apps/details?id=com.apricodex.eduoral)
