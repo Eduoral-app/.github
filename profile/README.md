@@ -10,4 +10,4 @@ With **personalized dashboards**, colorful card layouts, and intuitive navigatio
 
 - **Email**: `eduoral@apricodex.com`  
 - **Website**: `https://eduoral.apricodex.com`  
-- **Google Play Store App**: [<PLayStore>](https://play.google.com/store/apps/details?id=com.apricodex.eduoral)
+- **Google Play Store App**:  `https://play.google.com/store/apps/details?id=com.apricodex.eduoral`
